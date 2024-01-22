@@ -1,0 +1,8 @@
+body{
+      font-family: 'Nunito', sans-serif;
+      color: #ffffff;
+      background-image: url('../public/images/online.jpg');
+      background-size: 1900px;
+      background-position: center;
+      background-position-x: bottom;
+}
